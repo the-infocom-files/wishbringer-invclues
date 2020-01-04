@@ -273,7 +273,7 @@ Everything around you is soaked in a brief but savage downpour.">
 	 <SET FROM ,HERE>
 	 <SETG HERE ,MUSEUM>
 	 <CARRIAGE-RETURNS>
-	 <USL>
+	 <UPDATE-STATUS-LINE>
 	 <TELL
 "A pinprick of brilliance pierces the gloom. It creeps closer, growing more powerful and unearthly as it approaches.|
 |
