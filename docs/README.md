@@ -32,4 +32,4 @@ The following sources provide further information on Wishbringer:
 
 Version 23/880706 has been selected as the starting point for future development.
 
-Compilation issues are recorded [here](https://github.com/the-infocom-files/wishbringer-invclues/issues/2).
+Compilation issues are recorded [here](https://github.com/the-infocom-files/wishbringer-invclues/issues/3).
