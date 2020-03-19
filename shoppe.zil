@@ -407,7 +407,7 @@ The " D ,HOUSE-DOOR " of the " D ,MAGICK-SHOPPE " is ">
 <ROUTINE ENVELOPE-F ()
 	 <COND (<VERB? EXAMINE READ>
 		<TELL 
-"The envelope is addressed with splotchy ink that bears an unsettling resembance to dried blood. The notice SPECIAL DELIVERY appears in urgent red letters across the top. You struggle to make out the handwriting:|
+"The envelope is addressed with splotchy ink that bears an unsettling resemblance to dried blood. The notice SPECIAL DELIVERY appears in urgent red letters across the top. You struggle to make out the handwriting:|
 |
 The Tower|
 |

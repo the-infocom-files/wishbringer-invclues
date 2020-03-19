@@ -94,7 +94,7 @@ full answer. The questions have been worded to give away as little as
 possible. You should not use the presence or absence of a question on a
 certain topic as an indication of importance. Included are dummy questions
 and answers in order to minimize the problem.">
-	<PLTABLE "How to use the Invisiclues."
+	<PLTABLE "How to use the InvisiClues."
 		 "If you are stuck at some point in Wishbringer, find the
 question that most pertains to your problem. Follow the directions above.
 If you're still stumped, go on to the next hint.">

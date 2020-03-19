@@ -616,7 +616,7 @@ D ,SHOE " begin to twinkle with Luck." CR>
                of the|
          Magick Dream-Stone|
      recently unearthed by the|
-Society of Thaumaturgic Archaelogy,|
+Society of Thaumaturgic Archaeology,|
        and commonly known as|
             WISHBRINGER|
     including a substantial body|
